@@ -21,3 +21,5 @@ Sou aluno de Análise e Desenvolvimento de Sistemas no **Centro Universitário F
 - **E-mail**: ggsilvasantos345@gmail.com
 
 ![Figma](https://github.com/Gustaa7K/Gustaa7K/blob/main/pngwing.com.png)
+
+<img src="https://github.com/Gustaa7K/Gustaa7K/blob/main/pngwing.com.png" width="50" height="50"/>
