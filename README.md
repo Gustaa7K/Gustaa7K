@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo! 👋
 
-<!--
-**Gustaa7K/Gustaa7K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas | Web Designer (UX/UI) | Desenvolvedor Android
 
-Here are some ideas to get you started:
+🔹 **Faculdade**: Centro Universitário FACENS  
+🔹 **Curso**: Análise e Desenvolvimento de Sistemas  
+🔹 **Interesses**: UX/UI Design, Testes de Software, Desenvolvimento Android, Desenvolvimento de Sistemas Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou aluno de Análise e Desenvolvimento de Sistemas no **Centro Universitário FACENS** e tenho experiência como **Web Designer** com foco em **UX/UI**. Estou sempre buscando melhorar minhas habilidades em **desenvolvimento de sistemas**, **design de interfaces** e **testes de software**. Além disso, adoro desenvolver projetos práticos e aplicar meu conhecimento para resolver problemas reais.
+
+### 💻 **Projetos Pessoais**:
+- Em desenvolvimento!
+
+### 📚 **Tecnologias que uso**:
+- **Linguagens**: Java, HTML, JavaScript, Typescrit, CSS
+- **Frameworks/Tools**: Android, Figma (UX/UI Design), Git, GitHub
+- **Banco de Dados**: MySQL, MongoDB, Room (android studio)
+
+### 📫 **Como me encontrar**:
+- **LinkedIn**: [Gustavo no LinkedIn](https://github.com/Gustaa7K)
+- **E-mail**: ggsilvasantos345@gmail.com
